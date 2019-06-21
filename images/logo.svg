@@ -1,1 +1,46 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:se="http://svg-edit.googlecode.com" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" width="777" height="480" style="">                                    <title>my vector image</title>                                    <!-- Created with Vector Paint - http://www.vectorpaint.yaks.com/ https://chrome.google.com/webstore/detail/hnbpdiengicdefcjecjbnjnoifekhgdo -->                                    <rect id="backgroundrect" width="100%" height="100%" x="0" y="0" fill="#FFFFFF" stroke="none"/>                                <g class="currentLayer" style=""><title>Layer 1</title><path fill="none" fill-opacity="1" stroke="#222222" stroke-opacity="1" stroke-width="2" stroke-dasharray="none" stroke-linejoin="round" stroke-linecap="butt" stroke-dashoffset="" fill-rule="nonzero" opacity="1" marker-start="" marker-mid="" marker-end="" d="M143.08822692351666,48.60039124292937 L87.51183738298462,153.74491199528728 " id="svg_1" class="" transform="rotate(-0.7726672887802124 115.30003356933116,101.17265319824233) "/><path fill="none" fill-opacity="1" stroke="#222222" stroke-opacity="1" stroke-width="2" stroke-dasharray="none" stroke-linejoin="round" stroke-linecap="butt" stroke-dashoffset="" fill-rule="nonzero" opacity="1" marker-start="" marker-mid="" marker-end="" d="M141.6528664365911,48.66604184791436 L190.95182253737886,155.73721212931264 " id="svg_3" class=""/><rect fill="none" stroke="#222222" stroke-width="2" stroke-linejoin="round" stroke-dashoffset="" fill-rule="nonzero" id="svg_5" x="103.91970801353455" y="135.64963507652283" width="72.35036635398865" height="14" style="color: rgb(0, 0, 0);" class="" transform="rotate(1.0705091953277588 140.0948791503888,142.6496276855474) "/><foreignObject fill="none" stroke="#222222" stroke-width="2" stroke-linejoin="round" stroke-dashoffset="" fill-rule="nonzero" font-size="50" font-family="Georgia, serif" letter-spacing="0" word-spacing="0" marker-start="" marker-mid="" marker-end="" id="svg_9" x="111" y="114" width="2" height="12" style="color: rgb(0, 0, 0);"><p xmlns="http://www.w3.org/1999/xhtml">text</p></foreignObject><foreignObject fill="none" stroke="#222222" stroke-width="2" stroke-linejoin="round" stroke-dashoffset="" fill-rule="nonzero" font-size="25" font-family="Georgia, serif" letter-spacing="0" word-spacing="0" marker-start="" marker-mid="" marker-end="" id="svg_13" x="114.32761078554306" y="104.38235708199615" width="59.27307292822246" height="24.11108051317524" style="color: rgb(0, 0, 0);" class=""><p xmlns="http://www.w3.org/1999/xhtml" style="border: none;outline: none;font-size: inherit;line-height: 1em;padding:0;margin:0;">AQP</p></foreignObject><foreignObject fill="none" stroke="#222222" stroke-width="2" stroke-linejoin="round" stroke-dashoffset="" fill-rule="nonzero" font-size="50" font-family="Georgia, serif" letter-spacing="0" word-spacing="0" marker-start="" marker-mid="" marker-end="" id="svg_15" x="136" y="125" width="0" height="0" style="color: rgb(0, 0, 0);"><p xmlns="http://www.w3.org/1999/xhtml">text</p></foreignObject></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:se="http://svg-edit.googlecode.com" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" 
+width="250" height="200" >
+    <defs>
+        <filter id="f001" inkscape:label="Matte jelly" x="0" y="0" width="1" height="1" inkscape:menu="ABCs" inkscape:menu-tooltip="Bulging, matte jelly covering" color-interpolation-filters="sRGB">
+        <feColorMatrix values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 0.85 0" result="result0" in="SourceGraphic"/>
+        <feGaussianBlur in="SourceAlpha" stdDeviation="7"/>
+        <feSpecularLighting surfaceScale="5" specularConstant=".9" specularExponent="25">
+        <feDistantLight elevation="60" azimuth="225"/>
+        </feSpecularLighting>
+        <feComposite operator="atop" in2="result0"/>
+        </filter>
+    </defs>
+    <title>my vector image</title>
+    <!-- Created with Vector Paint - http://www.vectorpaint.yaks.com/ https://chrome.google.com/webstore/detail/hnbpdiengicdefcjecjbnjnoifekhgdo -->
+    <rect id="backgroundrect" width="100%" height="100%" x="0" y="0" fill="#FFFFFF" stroke="none"/>
+    <g class="currentLayer" style="">
+        <title>Layer 1</title>
+        <path fill="#4586e8" stroke="none" stroke-width="2" stroke-dasharray="none" stroke-linejoin="round" stroke-linecap="butt" stroke-dashoffset="" fill-rule="nonzero" opacity="1" marker-start="" marker-mid="" marker-end="" d="M72.17006965718508,111.65920422411901 C72.17006965718508,74.9339056288815 102.8202024602285,45.186413766739136 140.65987258744258,45.186413766739136 C178.49954271465663,45.186413766739136 209.14967551770005,74.9339056288815 209.14967551770005,111.65920422411901 C209.14967551770005,148.38450281935653 178.49954271465663,178.13199468149887 140.65987258744258,178.13199468149887 C102.8202024602285,178.13199468149887 72.17006965718508,148.38450281935653 72.17006965718508,111.65920422411901 z" id="svg_2" class="" fill-opacity="1" filter="url(#f001)"/>
+        <path fill="none" fill-opacity="1" stroke="#222222" stroke-opacity="1" stroke-width="2" stroke-dasharray="none" stroke-linejoin="round" stroke-linecap="butt" stroke-dashoffset="" fill-rule="nonzero" opacity="1" marker-start="" marker-mid="" marker-end="" d="M143.08822692351666,47.92011914057341 L87.51183738298462,153.06463989293132 " id="svg_1" class="" transform="rotate(-0.7726672887802124 115.30003356933116,100.49237823486409) "/>
+        <rect fill="none" stroke="#222222" stroke-width="2" stroke-linejoin="round" stroke-dashoffset="" fill-rule="nonzero" id="svg_5" x="103.72107696533203" y="132.9285430908203" width="72.3503646850586" height="14" style="color: rgb(0, 0, 0);" class="" transform="rotate(0.8288664817810059 139.89627075195114,139.92854309082125) "/>
+        <foreignObject fill="none" stroke="#222222" stroke-width="2" stroke-linejoin="round" stroke-dashoffset="" fill-rule="nonzero" font-size="50" font-family="Georgia, serif" letter-spacing="0" word-spacing="0" marker-start="" marker-mid="" marker-end="" id="svg_9" x="111" y="114" width="2" height="12" style="color: rgb(0, 0, 0);">
+            <p xmlns="http://www.w3.org/1999/xhtml">
+                <p xmlns="http://www.w3.org/1999/xhtml">text</p>
+            </p>
+        </foreignObject>
+            <foreignObject fill="none" stroke="#222222" stroke-width="2" stroke-linejoin="round" stroke-dashoffset="" fill-rule="nonzero" font-size="50" font-family="Georgia, serif" letter-spacing="0" word-spacing="0" marker-start="" marker-mid="" marker-end="" id="svg_15" x="136" y="125" width="0" height="0" style="color: rgb(0, 0, 0);">
+                <p xmlns="http://www.w3.org/1999/xhtml">
+                    <p xmlns="http://www.w3.org/1999/xhtml">text</p>
+                </p>
+            </foreignObject>
+            <path fill="none" fill-opacity="1" stroke="#222222" stroke-opacity="1" stroke-width="2" stroke-dasharray="none" stroke-linejoin="round" stroke-linecap="butt" stroke-dashoffset="" fill-rule="nonzero" opacity="1" marker-start="" marker-mid="" marker-end="" d="M141.6528664365911,48.66604184791436 L190.95182253737886,155.73721212931264 " id="svg_3" class=""/>
+            <foreignObject fill="none" stroke="#222222" stroke-width="2" stroke-linejoin="round" stroke-dashoffset="" fill-rule="nonzero" font-size="25" font-family="Georgia, serif" letter-spacing="0" word-spacing="0" marker-start="" marker-mid="" marker-end="" id="svg_13" x="110.9816665649414" y="102.3202286362648" width="60.73310470581055" height="35.792938232421875" style="color: rgb(0, 0, 0);" class="">
+                <p style="border: none;outline: none;font-size: inherit;line-height: 1em;padding:0;margin:0;" xmlns="http://www.w3.org/1999/xhtml">
+                    <p xmlns="http://www.w3.org/1999/xhtml" style="border: none;outline: none;font-size: inherit;line-height: 1em;padding:0;margin:0;"></p>
+                    <p xmlns="http://www.w3.org/1999/xhtml" style="border: none;outline: none;font-size: inherit;line-height: 1em;padding:0;margin:0;"></p>
+                    <p xmlns="http://www.w3.org/1999/xhtml" style="border: none;outline: none;font-size: inherit;line-height: 1em;padding:0;margin:0;"></p>
+                    <p xmlns="http://www.w3.org/1999/xhtml" style="border: none;outline: none;font-size: inherit;line-height: 1em;padding:0;margin:0;"></p>
+                    <p xmlns="http://www.w3.org/1999/xhtml" style="border: none;outline: none;font-size: inherit;line-height: 1em;padding:0;margin:0;">AQP</p>
+                    <p style="border: none;outline: none;font-size: inherit;line-height: 1em;padding:0;margin:0;"></p>
+                    <p style="border: none;outline: none;font-size: inherit;line-height: 1em;padding:0;margin:0;"></p>
+                    <p style="border: none;outline: none;font-size: inherit;line-height: 1em;padding:0;margin:0;"></p>
+                    <p style="border: none;outline: none;font-size: inherit;line-height: 1em;padding:0;margin:0;"></p>
+                </p>
+        </foreignObject>
+    </g>
+</svg>
